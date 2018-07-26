@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../android/KDS/app/build.gradle">
+   </FileRef>
+   <FileRef
+      location = "group:../PublicJenkinsPipelineLibs/vars">
+   </FileRef>
+   <FileRef
+      location = "group:../Atlas/CDS/fastlane">
+   </FileRef>
+   <FileRef
+      location = "group:../github-droid">
+   </FileRef>
+</Workspace>
